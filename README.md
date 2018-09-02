@@ -129,3 +129,7 @@ transformer.registerCharactersHandler("foo/#text()", (context, cargo, writer) ->
 transformer.nullTransform();
 assertEquals("some text\nsome more text\nyet more text\n", textCollector.toString());
 ```
+
+## Javadocs
+
+see [Optimus javadocs](https://adeptions.github.io/Optimus/)
