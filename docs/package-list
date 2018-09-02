@@ -1,0 +1,8 @@
+com.adpetions.optimus
+com.adpetions.optimus.entities
+com.adpetions.optimus.exceptions
+com.adpetions.optimus.namespaces
+com.adpetions.optimus.nodes
+com.adpetions.optimus.templating
+com.adpetions.optimus.templating.annotations
+com.adpetions.optimus.writers
